@@ -1,0 +1,125 @@
+{
+  "uid" : "5e07dc5decffa640",
+  "name" : "TC02",
+  "fullName" : "modules.Day06.TestNGSample.TC02",
+  "historyId" : "f28c1688b2478c0440ba5cb4989b09ed",
+  "time" : {
+    "start" : 1561782100501,
+    "stop" : 1561782100501,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "beforeTest",
+    "time" : {
+      "start" : 1561782095610,
+      "stop" : 1561782095622,
+      "duration" : 12
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "beforeMethod",
+    "time" : {
+      "start" : 1561782100491,
+      "stop" : 1561782100492,
+      "duration" : 1
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "afterTest",
+    "time" : {
+      "start" : 1561782100577,
+      "stop" : 1561782100577,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1561782100505,
+      "stop" : 1561782100505,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "modules.Day06.TestNGSample"
+  }, {
+    "name" : "testClass",
+    "value" : "modules.Day06.TestNGSample"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC02"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestNG sample"
+  }, {
+    "name" : "suite",
+    "value" : "Demo"
+  }, {
+    "name" : "subSuite",
+    "value" : "modules.Day06.TestNGSample"
+  }, {
+    "name" : "host",
+    "value" : "TUANANH"
+  }, {
+    "name" : "thread",
+    "value" : "14292@TUANANH.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5e07dc5decffa640.json",
+  "parameterValues" : [ ]
+}

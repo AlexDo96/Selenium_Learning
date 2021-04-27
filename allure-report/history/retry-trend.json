@@ -1,0 +1,9 @@
+[ {
+  "buildOrder" : 3,
+  "reportUrl" : "http://192.168.0.148:8080/job/AK21_TuanAnh/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 8,
+    "retry" : 4
+  }
+} ]

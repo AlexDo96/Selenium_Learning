@@ -1,0 +1,189 @@
+{
+  "uid" : "61e34db092ff53b8",
+  "name" : "bmiCalculate",
+  "fullName" : "modules.Day07.BMITest.bmiCalculate",
+  "historyId" : "8222248e362cd1183c8c9e73caf5f9df",
+  "time" : {
+    "start" : 1561782473678,
+    "stop" : 1561782476143,
+    "duration" : 2465
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : true
+  },
+  "beforeStages" : [ {
+    "name" : "init",
+    "time" : {
+      "start" : 1561782473122,
+      "stop" : 1561782473669,
+      "duration" : 547
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1561782441834,
+      "stop" : 1561782450784,
+      "duration" : 8950
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "clear",
+    "time" : {
+      "start" : 1561782476148,
+      "stop" : 1561782476148,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1561782476154,
+      "stop" : 1561782476920,
+      "duration" : 766
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "modules.Day07.BMITest"
+  }, {
+    "name" : "testClass",
+    "value" : "modules.Day07.BMITest"
+  }, {
+    "name" : "testMethod",
+    "value" : "bmiCalculate"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestNG sample"
+  }, {
+    "name" : "suite",
+    "value" : "Demo"
+  }, {
+    "name" : "subSuite",
+    "value" : "modules.Day07.BMITest"
+  }, {
+    "name" : "host",
+    "value" : "TUANANH"
+  }, {
+    "name" : "thread",
+    "value" : "1740@TUANANH.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  } ],
+  "parameters" : [ {
+    "name" : "arg3",
+    "value" : "64"
+  }, {
+    "name" : "arg2",
+    "value" : "172"
+  }, {
+    "name" : "arg4",
+    "value" : "BMI = 21.6 kg/m2   (Normal)"
+  }, {
+    "name" : "arg1",
+    "value" : "male"
+  }, {
+    "name" : "browser",
+    "value" : "chrome"
+  }, {
+    "name" : "arg0",
+    "value" : "30"
+  }, {
+    "name" : "url",
+    "value" : "https://www.calculator.net/bmi-calculator.html"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "644c3e04a3a520ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561782462005,
+        "stop" : 1561782464847,
+        "duration" : 2842
+      }
+    }, {
+      "uid" : "23604daf63bbf096",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561782458701,
+        "stop" : 1561782461224,
+        "duration" : 2523
+      }
+    }, {
+      "uid" : "33007c6db32a556c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561782454775,
+        "stop" : 1561782457870,
+        "duration" : 3095
+      }
+    }, {
+      "uid" : "4b1491167300380b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561782259445,
+        "stop" : 1561782262306,
+        "duration" : 2861
+      }
+    }, {
+      "uid" : "49b731f5d3e5ce89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561782247939,
+        "stop" : 1561782250607,
+        "duration" : 2668
+      }
+    }, {
+      "uid" : "ede002a98f5437b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561782245022,
+        "stop" : 1561782247421,
+        "duration" : 2399
+      }
+    }, {
+      "uid" : "85bd05a1a4ac3095",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561782241157,
+        "stop" : 1561782244323,
+        "duration" : 3166
+      }
+    } ],
+    "categories" : [ ]
+  }
+}

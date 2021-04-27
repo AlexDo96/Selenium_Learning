@@ -1,0 +1,120 @@
+{
+  "uid" : "91263684db30faed",
+  "name" : "TC01",
+  "fullName" : "modules.Day06.TestNGSample.TC01",
+  "historyId" : "e2d3538e5710c68dc8be9585977feb8",
+  "time" : {
+    "start" : 1561782100435,
+    "stop" : 1561782100446,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ {
+    "name" : "beforeTest",
+    "time" : {
+      "start" : 1561782095610,
+      "stop" : 1561782095622,
+      "duration" : 12
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0
+  }, {
+    "name" : "beforeMethod",
+    "time" : {
+      "start" : 1561782095672,
+      "stop" : 1561782095672,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "afterTest",
+    "time" : {
+      "start" : 1561782100577,
+      "stop" : 1561782100577,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0
+  }, {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1561782100465,
+      "stop" : 1561782100465,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "modules.Day06.TestNGSample"
+  }, {
+    "name" : "testClass",
+    "value" : "modules.Day06.TestNGSample"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC01"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestNG sample"
+  }, {
+    "name" : "suite",
+    "value" : "Demo"
+  }, {
+    "name" : "subSuite",
+    "value" : "modules.Day06.TestNGSample"
+  }, {
+    "name" : "host",
+    "value" : "TUANANH"
+  }, {
+    "name" : "thread",
+    "value" : "14292@TUANANH.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  } ],
+  "parameters" : [ {
+    "name" : "arg2",
+    "value" : "2"
+  }, {
+    "name" : "arg1",
+    "value" : "1"
+  }, {
+    "name" : "arg0",
+    "value" : "1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ]
+  }
+}

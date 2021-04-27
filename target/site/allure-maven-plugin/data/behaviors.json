@@ -1,0 +1,149 @@
+{
+  "statistic" : {
+    "failed" : 3,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 8
+  },
+  "time" : {
+    "minDuration" : 0,
+    "maxDuration" : 2707,
+    "sumDuration" : 5206,
+    "start" : 1561782100435,
+    "stop" : 1561782476143,
+    "duration" : 375708
+  },
+  "children" : [ {
+    "uid" : "7f47d0ab7d20e0c7",
+    "name" : "Default feature",
+    "time" : {
+      "minDuration" : 0,
+      "maxDuration" : 2707,
+      "sumDuration" : 5206,
+      "start" : 1561782100435,
+      "stop" : 1561782476143,
+      "duration" : 375708
+    },
+    "statistic" : {
+      "failed" : 3,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "type" : "TestGroupNode",
+    "children" : [ {
+      "uid" : "dbd3e2d509511e5",
+      "name" : "Default story",
+      "time" : {
+        "minDuration" : 0,
+        "maxDuration" : 2707,
+        "sumDuration" : 5206,
+        "start" : 1561782100435,
+        "stop" : 1561782476143,
+        "duration" : 375708
+      },
+      "statistic" : {
+        "failed" : 3,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "type" : "TestGroupNode",
+      "children" : [ {
+        "uid" : "61e34db092ff53b8",
+        "name" : "bmiCalculate",
+        "time" : {
+          "start" : 1561782473678,
+          "stop" : 1561782476143,
+          "duration" : 2465
+        },
+        "status" : "passed",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "d048c326dcd3f926",
+        "name" : "bmiCalculate",
+        "time" : {
+          "start" : 1561782469342,
+          "stop" : 1561782472049,
+          "duration" : 2707
+        },
+        "status" : "failed",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "8bb1c0a9a8830426",
+        "name" : "TC05",
+        "time" : {
+          "start" : 1561782100566,
+          "stop" : 1561782100567,
+          "duration" : 1
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "60e1ddf4c113f07",
+        "name" : "TC02",
+        "time" : {
+          "start" : 1561782100501,
+          "stop" : 1561782100501,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "e784c72c92cfe922",
+        "name" : "TC03",
+        "time" : {
+          "start" : 1561782100513,
+          "stop" : 1561782100531,
+          "duration" : 18
+        },
+        "status" : "failed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "91263684db30faed",
+        "name" : "TC01",
+        "time" : {
+          "start" : 1561782100435,
+          "stop" : 1561782100446,
+          "duration" : 11
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "a3606ba6143b4517",
+        "name" : "TC01",
+        "time" : {
+          "start" : 1561782100484,
+          "stop" : 1561782100485,
+          "duration" : 1
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "a8445c609022646b",
+        "name" : "TC04",
+        "time" : {
+          "start" : 1561782100546,
+          "stop" : 1561782100549,
+          "duration" : 3
+        },
+        "status" : "failed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      } ]
+    } ]
+  } ]
+}

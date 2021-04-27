@@ -1,0 +1,81 @@
+[ {
+  "uid" : "61e34db092ff53b8",
+  "name" : "bmiCalculate",
+  "time" : {
+    "start" : 1561782473678,
+    "stop" : 1561782476143,
+    "duration" : 2465
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d048c326dcd3f926",
+  "name" : "bmiCalculate",
+  "time" : {
+    "start" : 1561782469342,
+    "stop" : 1561782472049,
+    "duration" : 2707
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8bb1c0a9a8830426",
+  "name" : "TC05",
+  "time" : {
+    "start" : 1561782100566,
+    "stop" : 1561782100567,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60e1ddf4c113f07",
+  "name" : "TC02",
+  "time" : {
+    "start" : 1561782100501,
+    "stop" : 1561782100501,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e784c72c92cfe922",
+  "name" : "TC03",
+  "time" : {
+    "start" : 1561782100513,
+    "stop" : 1561782100531,
+    "duration" : 18
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "91263684db30faed",
+  "name" : "TC01",
+  "time" : {
+    "start" : 1561782100435,
+    "stop" : 1561782100446,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3606ba6143b4517",
+  "name" : "TC01",
+  "time" : {
+    "start" : 1561782100484,
+    "stop" : 1561782100485,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8445c609022646b",
+  "name" : "TC04",
+  "time" : {
+    "start" : 1561782100546,
+    "stop" : 1561782100549,
+    "duration" : 3
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

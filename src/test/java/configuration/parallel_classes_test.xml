@@ -1,0 +1,8 @@
+<suite name="Test-class Suite" parallel="classes" thread-count="2" >
+    <test name="Test-class test" >
+        <classes>
+            <class name="modules.Day07.ParallelClassesTestOne" />
+            <class name="modules.Day07.ParallelClassesTestTwo" />
+        </classes>
+    </test>
+</suite>

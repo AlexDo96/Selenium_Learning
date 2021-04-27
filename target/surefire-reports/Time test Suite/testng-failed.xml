@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Time test Suite]">
+  <listeners>
+    <listener class-name="supports.ExcelReport"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="Group Test(failed)">
+    <groups>
+      <run>
+        <include name="Sanity"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="modules.Day07.GroupTest">
+        <methods>
+          <include name="testMethodThree"/>
+        </methods>
+      </class> <!-- modules.Day07.GroupTest -->
+    </classes>
+  </test> <!-- Group Test(failed) -->
+</suite> <!-- Failed suite [Time test Suite] -->

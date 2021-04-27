@@ -1,0 +1,170 @@
+{
+  "uid" : "ce7cb43c96edb8ea",
+  "name" : "bmiCalculate",
+  "fullName" : "modules.Day07.BMITest.bmiCalculate",
+  "historyId" : "8222248e362cd1183c8c9e73caf5f9df",
+  "time" : {
+    "start" : 1561782259445,
+    "stop" : 1561782262306,
+    "duration" : 2861
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "init",
+    "time" : {
+      "start" : 1561782258541,
+      "stop" : 1561782259439,
+      "duration" : 898
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1561782220439,
+      "stop" : 1561782237064,
+      "duration" : 16625
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "clear",
+    "time" : {
+      "start" : 1561782262308,
+      "stop" : 1561782262308,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1561782262311,
+      "stop" : 1561782263023,
+      "duration" : 712
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "modules.Day07.BMITest"
+  }, {
+    "name" : "testClass",
+    "value" : "modules.Day07.BMITest"
+  }, {
+    "name" : "testMethod",
+    "value" : "bmiCalculate"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestNG sample"
+  }, {
+    "name" : "suite",
+    "value" : "Demo"
+  }, {
+    "name" : "subSuite",
+    "value" : "modules.Day07.BMITest"
+  }, {
+    "name" : "host",
+    "value" : "TUANANH"
+  }, {
+    "name" : "thread",
+    "value" : "7896@TUANANH.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "30"
+  }, {
+    "name" : "arg1",
+    "value" : "male"
+  }, {
+    "name" : "arg2",
+    "value" : "172"
+  }, {
+    "name" : "arg3",
+    "value" : "64"
+  }, {
+    "name" : "arg4",
+    "value" : "BMI = 21.6 kg/m2   (Normal)"
+  }, {
+    "name" : "browser",
+    "value" : "chrome"
+  }, {
+    "name" : "url",
+    "value" : "https://www.calculator.net/bmi-calculator.html"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3609f62618a34083",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561782247939,
+        "stop" : 1561782250607,
+        "duration" : 2668
+      }
+    }, {
+      "uid" : "47e6125624ddeaa6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561782245022,
+        "stop" : 1561782247421,
+        "duration" : 2399
+      }
+    }, {
+      "uid" : "2d428c8616fc1b56",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561782241157,
+        "stop" : 1561782244323,
+        "duration" : 3166
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ce7cb43c96edb8ea.json",
+  "parameterValues" : [ "30", "male", "172", "64", "BMI = 21.6 kg/m2   (Normal)", "chrome", "https://www.calculator.net/bmi-calculator.html" ]
+}

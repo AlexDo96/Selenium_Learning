@@ -1,0 +1,7 @@
+<suite name="TestNG sample">
+    <test name="Demo">
+        <classes>
+            <class name="modules.Day06.TestNGSample"/>
+        </classes>
+    </test>
+</suite>

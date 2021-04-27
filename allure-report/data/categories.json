@@ -1,0 +1,57 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Wrong result expected [3] but found [6]",
+      "children" : [ {
+        "name" : "TC03",
+        "uid" : "503c9ee27f775b31",
+        "parentUid" : "e2ea2b304ea58cfa5381d64df7172f2b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1561782100513,
+          "stop" : 1561782100531,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e2ea2b304ea58cfa5381d64df7172f2b"
+    }, {
+      "name" : "Wrong result expected [3] but found [2]",
+      "children" : [ {
+        "name" : "TC04",
+        "uid" : "4a4496b5ad59eec3",
+        "parentUid" : "b0cacb0653fb1cc7eab8b8eeebc6343d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1561782100546,
+          "stop" : 1561782100549,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b0cacb0653fb1cc7eab8b8eeebc6343d"
+    }, {
+      "name" : "expected [BMI = 20.70 kg/m2  (Normal)] but found [BMI = 21.6 kg/m2   (Normal)]",
+      "children" : [ {
+        "name" : "bmiCalculate",
+        "uid" : "1d9bced14d1c3af7",
+        "parentUid" : "813511050825781cbe3548bb0d207dcc",
+        "status" : "failed",
+        "time" : {
+          "start" : 1561782255326,
+          "stop" : 1561782257677,
+          "duration" : 2351
+        },
+        "flaky" : true,
+        "parameters" : [ "30", "male", "172", "64", "BMI = 20.70 kg/m2  (Normal)", "chrome", "https://www.calculator.net/bmi-calculator.html" ]
+      } ],
+      "uid" : "813511050825781cbe3548bb0d207dcc"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

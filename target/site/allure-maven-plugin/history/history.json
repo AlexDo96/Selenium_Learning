@@ -1,0 +1,165 @@
+{
+  "95f4fef39f93fda5fe22087b32601162" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a8445c609022646b",
+      "reportUrl" : "http://192.168.0.148:8080/job/AK21_TuanAnh/3/allure/#testcase/a8445c609022646b",
+      "status" : "failed",
+      "statusDetails" : "Wrong result expected [3] but found [2]",
+      "time" : {
+        "start" : 1561782100546,
+        "stop" : 1561782100549,
+        "duration" : 3
+      }
+    } ]
+  },
+  "8222248e362cd1183c8c9e73caf5f9df" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "61e34db092ff53b8",
+      "reportUrl" : "http://192.168.0.148:8080/job/AK21_TuanAnh/3/allure/#testcase/61e34db092ff53b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561782473678,
+        "stop" : 1561782476143,
+        "duration" : 2465
+      }
+    } ]
+  },
+  "b8beea661d74401e28afef1e14b02404" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e784c72c92cfe922",
+      "reportUrl" : "http://192.168.0.148:8080/job/AK21_TuanAnh/3/allure/#testcase/e784c72c92cfe922",
+      "status" : "failed",
+      "statusDetails" : "Wrong result expected [3] but found [6]",
+      "time" : {
+        "start" : 1561782100513,
+        "stop" : 1561782100531,
+        "duration" : 18
+      }
+    } ]
+  },
+  "e2d3538e5710c68dc8be9585977feb8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "91263684db30faed",
+      "reportUrl" : "http://192.168.0.148:8080/job/AK21_TuanAnh/3/allure/#testcase/91263684db30faed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561782100435,
+        "stop" : 1561782100446,
+        "duration" : 11
+      }
+    } ]
+  },
+  "cc9da121d1be0dd922c050a48676564" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a3606ba6143b4517",
+      "reportUrl" : "http://192.168.0.148:8080/job/AK21_TuanAnh/3/allure/#testcase/a3606ba6143b4517",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561782100484,
+        "stop" : 1561782100485,
+        "duration" : 1
+      }
+    } ]
+  },
+  "f28c1688b2478c0440ba5cb4989b09ed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "60e1ddf4c113f07",
+      "reportUrl" : "http://192.168.0.148:8080/job/AK21_TuanAnh/3/allure/#testcase/60e1ddf4c113f07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561782100501,
+        "stop" : 1561782100501,
+        "duration" : 0
+      }
+    } ]
+  },
+  "1abb9006226bba6c9784bcdb6d55939b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8bb1c0a9a8830426",
+      "reportUrl" : "http://192.168.0.148:8080/job/AK21_TuanAnh/3/allure/#testcase/8bb1c0a9a8830426",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561782100566,
+        "stop" : 1561782100567,
+        "duration" : 1
+      }
+    } ]
+  },
+  "97be384b61f12bb96475a62aba99b8f7" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d048c326dcd3f926",
+      "reportUrl" : "http://192.168.0.148:8080/job/AK21_TuanAnh/3/allure/#testcase/d048c326dcd3f926",
+      "status" : "failed",
+      "statusDetails" : "expected [BMI = 20.70 kg/m2  (Normal)] but found [BMI = 21.6 kg/m2   (Normal)]",
+      "time" : {
+        "start" : 1561782469342,
+        "stop" : 1561782472049,
+        "duration" : 2707
+      }
+    } ]
+  }
+}

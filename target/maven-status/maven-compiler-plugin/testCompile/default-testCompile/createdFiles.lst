@@ -1,0 +1,4 @@
+configuration\TestBase.class
+supports\BMI_Functions_POM.class
+modules\Day06\TestNG_GroupTest.class
+modules\Day06\TestNGSample.class

@@ -1,0 +1,117 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "TestNG sample",
+    "children" : [ {
+      "name" : "Demo",
+      "children" : [ {
+        "name" : "modules.Day06.TestNGSample",
+        "children" : [ {
+          "name" : "TC01",
+          "uid" : "b27e103d815872bf",
+          "parentUid" : "55ead2c425f81d32cb9269d54f368f13",
+          "status" : "passed",
+          "time" : {
+            "start" : 1561782100435,
+            "stop" : 1561782100446,
+            "duration" : 11
+          },
+          "flaky" : false,
+          "parameters" : [ "1", "1", "2" ]
+        }, {
+          "name" : "TC01",
+          "uid" : "25643aa0c6110405",
+          "parentUid" : "55ead2c425f81d32cb9269d54f368f13",
+          "status" : "passed",
+          "time" : {
+            "start" : 1561782100484,
+            "stop" : 1561782100485,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ "2", "2", "4" ]
+        }, {
+          "name" : "TC02",
+          "uid" : "5e07dc5decffa640",
+          "parentUid" : "55ead2c425f81d32cb9269d54f368f13",
+          "status" : "passed",
+          "time" : {
+            "start" : 1561782100501,
+            "stop" : 1561782100501,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "TC03",
+          "uid" : "503c9ee27f775b31",
+          "parentUid" : "55ead2c425f81d32cb9269d54f368f13",
+          "status" : "failed",
+          "time" : {
+            "start" : 1561782100513,
+            "stop" : 1561782100531,
+            "duration" : 18
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "TC04",
+          "uid" : "4a4496b5ad59eec3",
+          "parentUid" : "55ead2c425f81d32cb9269d54f368f13",
+          "status" : "failed",
+          "time" : {
+            "start" : 1561782100546,
+            "stop" : 1561782100549,
+            "duration" : 3
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "TC05",
+          "uid" : "5cea99ccd551a5ca",
+          "parentUid" : "55ead2c425f81d32cb9269d54f368f13",
+          "status" : "passed",
+          "time" : {
+            "start" : 1561782100566,
+            "stop" : 1561782100567,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "55ead2c425f81d32cb9269d54f368f13"
+      }, {
+        "name" : "modules.Day07.BMITest",
+        "children" : [ {
+          "name" : "bmiCalculate",
+          "uid" : "1d9bced14d1c3af7",
+          "parentUid" : "460a5de0c802aaaea44eb14044217e57",
+          "status" : "failed",
+          "time" : {
+            "start" : 1561782255326,
+            "stop" : 1561782257677,
+            "duration" : 2351
+          },
+          "flaky" : true,
+          "parameters" : [ "30", "male", "172", "64", "BMI = 20.70 kg/m2  (Normal)", "chrome", "https://www.calculator.net/bmi-calculator.html" ]
+        }, {
+          "name" : "bmiCalculate",
+          "uid" : "ce7cb43c96edb8ea",
+          "parentUid" : "460a5de0c802aaaea44eb14044217e57",
+          "status" : "passed",
+          "time" : {
+            "start" : 1561782259445,
+            "stop" : 1561782262306,
+            "duration" : 2861
+          },
+          "flaky" : false,
+          "parameters" : [ "30", "male", "172", "64", "BMI = 21.6 kg/m2   (Normal)", "chrome", "https://www.calculator.net/bmi-calculator.html" ]
+        } ],
+        "uid" : "460a5de0c802aaaea44eb14044217e57"
+      } ],
+      "uid" : "cd531c3f3b98972a56f9207d7602ee61"
+    } ],
+    "uid" : "0d3257953a157bb379e5111558da4d0a"
+  } ]
+}

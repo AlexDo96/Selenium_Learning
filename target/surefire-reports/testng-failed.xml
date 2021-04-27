@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [TestNG sample]">
+  <test thread-count="5" verbose="0" name="Demo(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="https://www.calculator.net/bmi-calculator.html"/>
+    <classes>
+      <class name="modules.Day07.BMITest">
+        <methods>
+          <include name="init"/>
+          <include name="bmiCalculate" invocation-numbers="3 4"/>
+          <include name="clear"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- modules.Day07.BMITest -->
+    </classes>
+  </test> <!-- Demo(failed) -->
+</suite> <!-- Failed suite [TestNG sample] -->

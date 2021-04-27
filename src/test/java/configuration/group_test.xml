@@ -1,0 +1,15 @@
+<suite name="Time test Suite" verbose="1">
+   <listeners>
+        <listener class-name="supports.ExcelReport"/>
+    </listeners>
+    <test name="Group Test">
+        <groups>
+            <run>
+                <include name ="Sanity"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="modules.Day07.GroupTest"/>
+        </classes>
+    </test>
+</suite>

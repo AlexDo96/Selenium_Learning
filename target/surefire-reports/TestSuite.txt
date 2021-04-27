@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 37.177 s <<< FAILURE! - in TestSuite
+bmiCalculate(modules.Day07.BMITest)  Time elapsed: 2.367 s  <<< FAILURE!
+java.lang.AssertionError: expected [BMI = 20.70 kg/m2  (Normal)] but found [BMI = 21.6 kg/m2   (Normal)]
+	at modules.Day07.BMITest.bmiCalculate(BMITest.java:33)
+
+bmiCalculate(modules.Day07.BMITest)  Time elapsed: 2.709 s  <<< FAILURE!
+java.lang.AssertionError: expected [BMI = 20.70 kg/m2  (Normal)] but found [BMI = 21.6 kg/m2   (Normal)]
+	at modules.Day07.BMITest.bmiCalculate(BMITest.java:33)
+

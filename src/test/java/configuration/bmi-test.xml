@@ -1,0 +1,9 @@
+<suite name="TestNG sample">
+    <test name="Demo">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="url" value="https://www.calculator.net/bmi-calculator.html"/>
+        <classes>
+            <class name="modules.Day07.BMITest"/>
+        </classes>
+    </test>
+</suite>

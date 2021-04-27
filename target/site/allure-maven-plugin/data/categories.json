@@ -1,0 +1,136 @@
+{
+  "statistic" : {
+    "failed" : 3,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 3
+  },
+  "time" : {
+    "minDuration" : 3,
+    "maxDuration" : 2707,
+    "sumDuration" : 2728,
+    "start" : 1561782100513,
+    "stop" : 1561782472049,
+    "duration" : 371536
+  },
+  "children" : [ {
+    "uid" : "ae052fbe45f33659",
+    "name" : "Product defects",
+    "time" : {
+      "minDuration" : 3,
+      "maxDuration" : 2707,
+      "sumDuration" : 2728,
+      "start" : 1561782100513,
+      "stop" : 1561782472049,
+      "duration" : 371536
+    },
+    "statistic" : {
+      "failed" : 3,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "type" : "TestGroupNode",
+    "children" : [ {
+      "uid" : "d605770ae8860350",
+      "name" : "expected [BMI = 20.70 kg/m2  (Normal)] but found [BMI = 21.6 kg/m2   (Normal)]",
+      "time" : {
+        "minDuration" : 2707,
+        "maxDuration" : 2707,
+        "sumDuration" : 2707,
+        "start" : 1561782469342,
+        "stop" : 1561782472049,
+        "duration" : 2707
+      },
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 1
+      },
+      "type" : "TestGroupNode",
+      "children" : [ {
+        "uid" : "d048c326dcd3f926",
+        "name" : "bmiCalculate",
+        "time" : {
+          "start" : 1561782469342,
+          "stop" : 1561782472049,
+          "duration" : 2707
+        },
+        "status" : "failed",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      } ]
+    }, {
+      "uid" : "2384fb6e337346eb",
+      "name" : "Wrong result expected [3] but found [6]",
+      "time" : {
+        "minDuration" : 18,
+        "maxDuration" : 18,
+        "sumDuration" : 18,
+        "start" : 1561782100513,
+        "stop" : 1561782100531,
+        "duration" : 18
+      },
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 1
+      },
+      "type" : "TestGroupNode",
+      "children" : [ {
+        "uid" : "e784c72c92cfe922",
+        "name" : "TC03",
+        "time" : {
+          "start" : 1561782100513,
+          "stop" : 1561782100531,
+          "duration" : 18
+        },
+        "status" : "failed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      } ]
+    }, {
+      "uid" : "79398c0d3b604e86",
+      "name" : "Wrong result expected [3] but found [2]",
+      "time" : {
+        "minDuration" : 3,
+        "maxDuration" : 3,
+        "sumDuration" : 3,
+        "start" : 1561782100546,
+        "stop" : 1561782100549,
+        "duration" : 3
+      },
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 1
+      },
+      "type" : "TestGroupNode",
+      "children" : [ {
+        "uid" : "a8445c609022646b",
+        "name" : "TC04",
+        "time" : {
+          "start" : 1561782100546,
+          "stop" : 1561782100549,
+          "duration" : 3
+        },
+        "status" : "failed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      } ]
+    } ]
+  } ]
+}
